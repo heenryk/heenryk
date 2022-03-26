@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Henryk
-- 🔭 Hoje trabalho com front-end, com alguns conhecimentos em back-end... Meu maior e principal foco é o front-end!!
+- 🔭 Hoje trabalho com front-end, meu maior e principal foco é me especializar em front-end!!
 - 🌱 Estudando Typescript, Angular ...
 
 <div align="center">
