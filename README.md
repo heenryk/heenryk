@@ -2,10 +2,10 @@
 - 🔭 Hoje trabalho com front-end, com alguns conhecimentos em back-end... Meu maior e principal foco é o front-end!!
 - 🌱 Estudando Typescript, Angular ...
 
-<div align="center">
+<div align="">
   <a href="https://github.com/heenryk">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=heenryk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenryk&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heenryk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenryk&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
   
